@@ -64,5 +64,29 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Claim.Revolution is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.claimrev.com/
+Claim.Revolution is a medical claims clearinghouse for providers, offering a platform that enables healthcare teams to submit cleaner claims, verify eligibility, track claim status, and manage revenue cycles. It supports high‑volume batch submissions, complex payer environments, and integrates with EMR systems like OpenEMR and Healthie. The service aims to reduce denials, accelerate payments, and provide real‑time insights into claim processing for clinics, billing companies, and tribal health programs.
+
+**Areas:** Company · Healthcare · Claims · API · Billing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.claimrev.com/)
+- [Documentation](https://developer.claimrev.com/)
+- [Getting started](https://developer.claimrev.com/quickstart/)
+- [API reference](https://developer.claimrev.com/reference/)
+- [Pricing](https://www.claimrev.com/pricing/)
+- [Support](https://www.claimrev.com/contact-us/)
+- [Changelog](https://developer.claimrev.com/changelog)
+- [Blog](https://www.claimrev.com/blog/)
+- [Security](https://www.claimrev.com/security/)
+- [Compliance](https://www.claimrev.com/security/)
+- [Terms of service](https://www.claimrev.com/terms-and-conditions/)
+- [Privacy policy](https://www.claimrev.com/privacypolicy/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/claimrev/](https://apis.io/providers/claimrev/).
